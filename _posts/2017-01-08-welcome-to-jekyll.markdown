@@ -15,4 +15,4 @@ def factorial(value):
 - dashed item 0
 - dashed item 1
 
-![Some schema]({{site.baseurl}}/https://lh4.googleusercontent.com/GPwqEBMXYt3YzFYlVaXpb1jDHnsdQWLg3PE24RWnsLUJJGkZEDejQoZnf1bNDHeA_RrzQyx5POjj_n8cQv7ObsaDtF2DHnsID8C9gNVqQC20s6gOog8cF4zv-bS-yfmsjFetVDn4Qw)
+![cat]({{site.baseurl}}/https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4HtGsoVnca1_8HtSqWOEquwOhWAREUe_rkFzFpTgOfr9E2IwRBqxBNg)
