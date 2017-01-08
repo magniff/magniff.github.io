@@ -3,8 +3,14 @@ layout: post
 title: Welcome to Jekyll!
 date: '2017-01-08 15:11:52 +0300'
 categories: jekyll update
-published: false
+published: true
 ---
 # Hello world
 
-{highlight 
+```python
+def factorial(value):
+    return 10
+```
+
+- dashed item 0
+- dashed item 1
