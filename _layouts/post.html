@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
@@ -10,3 +11,8 @@ layout: default
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
+
+
+{% if page.comments %}
+    {% include disqus.html %}
+{% endif %}]
